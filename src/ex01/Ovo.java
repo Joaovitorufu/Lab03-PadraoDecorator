@@ -9,6 +9,6 @@ public class Ovo extends ToppingDecorator{
 
     @Override
     public String getDescricao() {
-        return pizza.getDescricao() + "com ovo";
+        return pizza.getDescricao() + " com ovo";
     }
 }
